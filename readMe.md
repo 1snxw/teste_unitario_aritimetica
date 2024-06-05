@@ -1,0 +1,1 @@
+site realizado em sala, de automação de progressão aritimetica de subtração, soma, multiplicação & divisão.
